@@ -3,7 +3,11 @@
 I am Benoit Demaegdt. I am a Full Stack developer skilled in NodeJS, VueJS and MongoDB.
 
 ### 🔭 What do I do?
-I'm currently working at a fast-growing company called [Georges](https://www.georges.tech/).
+I'm currently working at a fast-growing company called [Georges](https://www.georges.tech/), an all-in-one automated accounting solution for self-employed.
+
+![georges tech](https://github.com/benoitdemaegdt/benoitdemaegdt/raw/master/georges.png)
+
+Georges is constantly hiring developers and Product Managers. Feel free to reach out if you have any question or if you are looking for a new job in an amazing start-up 🚀
 
 ### 🌱 Side Projects
 I love working on side projects during my free time. Here are few things I've done
