@@ -11,7 +11,7 @@ Georges is constantly hiring developers and Product Managers. Feel free to reach
 
 ### 🌱 Side Projects
 I love working on side projects during my free time. Here are few things I've done
-- [Maxplorateur](https://maxplorateur.fr/)
+- [Maxplorateur](https://github.com/benoitdemaegdt/TGVmax)
 - [Coronavirus](https://benoitdemaegdt.github.io/coronavirus/)
 - [Mon Petit Sommet](http://monpetitsommet.fr/)
 
