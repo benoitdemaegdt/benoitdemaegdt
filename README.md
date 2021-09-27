@@ -5,9 +5,11 @@ I am Benoit Demaegdt. I am a Full Stack developer skilled in NodeJS, VueJS and M
 ### 🔭 What do I do?
 I'm currently working at a fast-growing company called [Indy](https://www.indy.fr/), an all-in-one automated accounting solution for self-employed.
 
-![georges tech](https://github.com/benoitdemaegdt/benoitdemaegdt/raw/master/georges.png)
+![indy](https://github.com/benoitdemaegdt/benoitdemaegdt/raw/master/indy.jpeg)
 
 Indy is constantly hiring developers and Product Managers. Feel free to reach out if you have any question or if you are looking for a new job in an amazing start-up 🚀
+
+You can also see all open positions 👉👉👉 [HERE](https://cooptation.hellotrusty.io/UQSDQ611R) 👈👈👈
 
 ### 🌱 Side Projects
 I love working on side projects during my free time. Here are few things I've done
