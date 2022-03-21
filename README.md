@@ -14,7 +14,7 @@ You can also see all open positions 👉👉👉 [HERE](https://cooptation.hello
 ### 🌱 Side Projects
 I love working on side projects during my free time. Here are few things I've done
 - [Maxplorateur](https://github.com/benoitdemaegdt/TGVmax)
-- [Coronavirus](https://benoitdemaegdt.github.io/coronavirus/)
+- [Coronavirus](https://github.com/benoitdemaegdt/coronavirus)
 - [Mon Petit Sommet](http://monpetitsommet.fr/)
 
 ### 📫 How to reach me ?
